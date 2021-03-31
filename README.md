@@ -1,5 +1,4 @@
-### Hi There ! 👋<br><br>This is github profile of 이상현(Sanghyun Lee), Bachelor of Software Engineering.
-### I'm using my nickname as Dr. Maemi :)
+### Hi There ! 👋<br><br>This is github profile of 이상현(Sanghyun Lee), Bachelor of Software Engineering.<br><br>I'm using my nickname as Dr. Maemi :)
 
 ------------------------------------------
 
@@ -25,7 +24,8 @@
 
 #### Contact
 - Email: leesh1510@ajou.ac.kr
-<br>**Don't hesitate to contact if you want.**
+<br>
+**Don't hesitate to contact if you want.**
 
 ------------------------------------------
 
