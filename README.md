@@ -4,10 +4,11 @@
 ---
 
 #### Contact
-    - Email: leesh1510@ajou.ac.kr
+Email: leesh1510@ajou.ac.kr
 
 ---
 
+#### Links
 Baekjoon Online Judge - [https://www.acmicpc.net/user/drmaemi](https://www.acmicpc.net/user/drmaemi)
 <br>
 Solved.ac - [https://solved.ac/profile/drmaemi](https://solved.ac/profile/drmaemi)
