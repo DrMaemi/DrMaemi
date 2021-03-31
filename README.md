@@ -4,15 +4,21 @@
 ------------------------------------------
 
 #### Interested
-- Algorithm & contest
+- **Algorithm & contest**
     - ACM-ICPC
     - Codeforces
-- Optimization of large-scale artificial intelligence models
+<br>
+
+- **Optimization of large-scale artificial intelligence models**
     - TensorRT
-- Back-End server side script
+<br>
+
+- **Back-End server side script**
     - Spring & Django
     - PHP
-- High-performance data pipelines & distribution technology
+<br>
+
+- **High-performance data pipelines & distribution technology**
     - Kafka
 
 ------------------------------------------
