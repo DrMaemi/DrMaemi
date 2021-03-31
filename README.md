@@ -1,8 +1,9 @@
 ### Hi There ! 👋<br><br>This is github profile of 이상현(Sanghyun Lee), Bachelor of Software Engineering.
 ### I'm using my nickname as Dr. Maemi :)
-<br>
 
-#### Interesting in
+------------------------------------------
+
+#### Interested
 - Algorithm & contest
     - ACM-ICPC
     - Codeforces
@@ -13,12 +14,14 @@
     - PHP
 - High-performance data pipelines & distribution technology
     - Kafka
----
+
+------------------------------------------
 
 #### Contact
 - Email: leesh1510@ajou.ac.kr
-Don't hesitate to contact if you want.
----
+<br>**Don't hesitate to contact if you want.**
+
+------------------------------------------
 
 #### Links
 - Baekjoon Online Judge - [https://www.acmicpc.net/user/drmaemi](https://www.acmicpc.net/user/drmaemi)
