@@ -8,12 +8,15 @@ Bachelor of software engineering (Expected to 2021.08)<br/>
 Junior developer
 
 ------------------------------------------
-<summary style="font-size:14px">💼Career</summary>
+<details open="open">
+  <summary style="font-size:16px; font-weight:bold">💼Career</summary>
+    - 2015.03 ~  - Bachelor of software engineering, Ajou University.
+    - 2021.04 ~ - Software Maestro 12th
+<details>
 
-- 2015.03 ~  - Bachelor of software engineering, Ajou University.
-- 2021.04 ~ - Software Maestro 12th
 ---
-<summary style="font-size:14px">✨Tech stack</summary>
+
+  <summary style="font-size:16px; font-weight:bold">✨Tech stack</summary>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,25 +39,26 @@ Junior developer
 <!-- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
 ---
-<summary style="font-size:14px">⭐Interested</summary>
+<details open="open">
+  <summary style="font-size:16px; font-weight:bold">⭐Interested</summary>
 
-- **Algorithm & contest**
-    - ACM-ICPC
-    - Codeforces
-<br>
-- **Optimization of large-scale artificial intelligence models**
-    - TensorRT
-<br>
-- **Back-End server side script**
-    - Spring & Django
-    - PHP
-<br>
-- **High-performance data pipelines & distribution technology**
-    - Kafka
-
+  - **Algorithm & contest**
+      - ACM-ICPC
+      - Codeforces
+  </br>
+  - **Optimization of large-scale artificial intelligence models**
+      - TensorRT
+  </br>
+  - **Back-End server side script**
+      - Spring & Django
+      - PHP
+  </br>
+  - **High-performance data pipelines & distribution technology**
+      - Kafka
+<details>
 ------------------------------------------
 
-<summary style="font-size:14px">📫Contact</summary>
+<summary style="font-size:16px; font-weight:bold">📫Contact</summary>
 
 - Email: leesh1510@ajou.ac.kr
 
