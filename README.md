@@ -8,11 +8,11 @@ Bachelor of software engineering (Expected to 2021.08)<br/>
 Junior developer
 
 ------------------------------------------
-<details open="open">
-  <summary style="font-size:16px; font-weight:bold">💼Career</summary>
-    - 2015.03 ~  - Bachelor of software engineering, Ajou University.
-    - 2021.04 ~ - Software Maestro 12th
-<details>
+
+<summary style="font-size:16px; font-weight:bold">💼Career</summary>
+  - 2015.03 ~  - Bachelor of software engineering, Ajou University.
+  - 2021.04 ~ - Software Maestro 12th
+
 
 ---
 
@@ -39,23 +39,26 @@ Junior developer
 <!-- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
 ---
-<details open="open">
-  <summary style="font-size:16px; font-weight:bold">⭐Interested</summary>
 
-  - **Algorithm & contest**
-      - ACM-ICPC
-      - Codeforces
-  </br>
-  - **Optimization of large-scale artificial intelligence models**
-      - TensorRT
-  </br>
-  - **Back-End server side script**
-      - Spring & Django
-      - PHP
-  </br>
-  - **High-performance data pipelines & distribution technology**
-      - Kafka
-<details>
+<summary style="font-size:16px; font-weight:bold">⭐Interested</summary>
+
+- **Algorithm & contest**
+    - ACM-ICPC
+    - Codeforces
+</br>
+
+- **Optimization of large-scale artificial intelligence models**
+    - TensorRT
+</br>
+
+- **Back-End server side script**
+    - Spring & Django
+    - PHP
+</br>
+
+- **High-performance data pipelines & distribution technology**
+    - Kafka
+
 ------------------------------------------
 
 <summary style="font-size:16px; font-weight:bold">📫Contact</summary>
