@@ -21,10 +21,12 @@ Junior developer
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![](https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=Flask&logoColor=white)
 ![](https://img.shields.io/badge/Django-10620A?style=for-the-badge&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-ED4C00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=FF5E00)
+
 ![](https://img.shields.io/badge/Spring-47C83E?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-ABF200?style=for-the-badge&logo=node.js&logoColor=white)
 
