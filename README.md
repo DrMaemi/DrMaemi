@@ -9,14 +9,14 @@ Junior developer
 
 ------------------------------------------
 
-<summary style="font-size:16px; font-weight:bold">💼Career</summary>
+#### 💼Career
   - 2015.03 ~  - Bachelor of software engineering, Ajou University.
   - 2021.04 ~ - Software Maestro 12th
 
 
 ---
 
-  <summary style="font-size:16px; font-weight:bold">✨Tech stack</summary>
+#### ✨Tech stack
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ Junior developer
 
 ---
 
-<summary style="font-size:16px; font-weight:bold">⭐Interested</summary>
+#### ⭐Interested
 
 - **Algorithm & contest**
     - ACM-ICPC
@@ -61,7 +61,7 @@ Junior developer
 
 ------------------------------------------
 
-<summary style="font-size:16px; font-weight:bold">📫Contact</summary>
+#### 📫Contact
 
 - Email: leesh1510@ajou.ac.kr
 
