@@ -1,4 +1,4 @@
-### Maemi's github<br/>
+## Maemi's github<br/>
 <p style="text-align:right;">
 <a href="https://github.com/DrMaemi">
   <img src="https://badges.pufler.dev/visits/DrMaemi/DrMaemi?style=flat-square&color=black&logo=github">
@@ -9,14 +9,14 @@ Junior developer
 
 ------------------------------------------
 
-#### 💼Career
+### 💼Career
   - 2015.03 ~  - Bachelor of software engineering, Ajou University.
   - 2021.04 ~ - Software Maestro 12th
 
 
 ---
 
-#### ✨Tech stack
+### ✨Tech stack
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ Junior developer
 
 ---
 
-#### ⭐Interested
+### ⭐Interested
 
 - **Algorithm & contest**
     - ACM-ICPC
@@ -61,7 +61,7 @@ Junior developer
 
 ------------------------------------------
 
-#### 📫Contact
+### 📫Contact
 
 - Email: leesh1510@ajou.ac.kr
 
@@ -69,7 +69,11 @@ Junior developer
 
 ------------------------------------------
 
-#### Links
+![Github stats](https://github-readme-stats.vercel.app/api?username=DrMaemi&theme=dark&show_icons=true)
+[![DrMaemi @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=DrMaemi)](https://solved.ac/profile/DrMaemi)
+
+------------------------------------------
+### Links
 - Baekjoon Online Judge - [https://www.acmicpc.net/user/drmaemi](https://www.acmicpc.net/user/drmaemi)
 - Solved.ac - [https://solved.ac/profile/drmaemi](https://solved.ac/profile/drmaemi)
 - Codeforces - [https://codeforces.com/profile/DrMaemi](https://codeforces.com/profile/DrMaemi
