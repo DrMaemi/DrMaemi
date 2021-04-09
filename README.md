@@ -14,7 +14,7 @@ Junior developer
   - 2021.04 ~ - Software Maestro 12th
 
 
----
+------------------------------------------
 
 ### ✨Tech stack
 
@@ -40,7 +40,16 @@ Junior developer
 
 <!-- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
----
+------------------------------------------
+
+### Awards & Honors
+
+<!-- - [2020-1, Scholarship for academic excellence](/source/awards-honors/2020-1_장학수혜증명서.pdf)
+- [2020-2, Scholarship for academic excellence](/source/awards-honors/2020-2_장학수혜증명서.pdf) -->
+- [2020-2, The Excellent prize, AJOU-SOFTCON(Hackathon)](/source/awards-honors/2020-2_AJOU-SOFTCON_수상.pdf)
+
+
+------------------------------------------
 
 ### ⭐Interested
 
