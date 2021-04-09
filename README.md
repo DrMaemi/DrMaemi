@@ -42,7 +42,7 @@ Junior developer
 
 ------------------------------------------
 
-### Awards & Honors
+### 🏆Awards & Honors
 
 <!-- - [2020-1, Scholarship for academic excellence](/source/awards-honors/2020-1_장학수혜증명서.pdf)
 - [2020-2, Scholarship for academic excellence](/source/awards-honors/2020-2_장학수혜증명서.pdf) -->
