@@ -61,22 +61,35 @@ Junior developer
 
 ### ⭐Interested
 
+<p>
+
 - **Algorithm & contest**
     - ACM-ICPC
     - Codeforces
-</br>
+</p>
+
+<p>
 
 - **Optimization of large-scale artificial intelligence models**
     - TensorRT
-</br>
+</p>
+
+<p>
 
 - **Back-End server side script**
     - Spring & Django
+    - Node.js, Express
     - PHP
-</br>
+</p>
+
+<p>
 
 - **High-performance data pipelines & distribution technology**
     - Kafka
+    - AWS ELB(Elastic Load Balancing)
+    - Dockerize
+    - Kubernetes
+</p>
 
 ------------------------------------------
 
