@@ -76,10 +76,16 @@ Junior developer
 
 <p>
 
-- **Back-End server side script**
+- **Back-End server side**
     - Spring & Django
     - Node.js, Express
     - PHP
+</p>
+
+<p>
+
+- **Collaboration & Security**
+    - JWT, Swagger
 </p>
 
 <p>
