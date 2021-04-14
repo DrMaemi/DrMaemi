@@ -1,24 +1,21 @@
+<!-- 깃허브 마크다운 목차 작성 시 주의사항
+- 공백은 하이픈(-)으로 바꿔야 한다.
+- 마침표(.)나 콤마(,) 등의 기호는 생략한다.
+- 이모지를 사용했다면 이모지도 생략한다.
+- 이모지가 헤더의 가장 앞에 있는 경우 이모지와 텍스트 사이에 공백이 있어선 안된다.
+- 헤딩 태그의 레벨(h1 ~ h6)은 신경쓰지 않아도 잘 동작한다. -->
 ## Maemi's github<br/>
 <p align="right">
   <!-- <a href="https://github.com/DrMaemi"> -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrMaemi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-<!-- <p style="text-align:right">
-  <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrMaemi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p> -->
-<!-- <p style="text-align:right;">
-<a href="https://github.com/DrMaemi">
-  <img src="https://badges.pufler.dev/visits/DrMaemi/DrMaemi?style=flat-square&color=black&logo=github">
-</a>
-</p> -->
 Bachelor of software engineering (Expected to 2021.08)<br/>
 Junior developer
 
 ------------------------------------------
 
 ### 💼Career
-  - 2015.03 ~  - Bachelor of software engineering, Ajou University.
+  - 2015.03 ~ - Bachelor of software engineering, Ajou University.
   - 2021.04 ~ - Software Maestro 12th
 
 
@@ -90,7 +87,7 @@ Junior developer
 
 <p>
 
-- **High-performance data pipelines & distribution technology**
+- **High-performance data pipelines & distribution technology & devops**
     - Kafka
     - AWS ELB(Elastic Load Balancing)
     - Dockerize
