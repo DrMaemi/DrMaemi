@@ -1,9 +1,3 @@
-<!-- 깃허브 마크다운 목차 작성 시 주의사항
-- 공백은 하이픈(-)으로 바꿔야 한다.
-- 마침표(.)나 콤마(,) 등의 기호는 생략한다.
-- 이모지를 사용했다면 이모지도 생략한다.
-- 이모지가 헤더의 가장 앞에 있는 경우 이모지와 텍스트 사이에 공백이 있어선 안된다.
-- 헤딩 태그의 레벨(h1 ~ h6)은 신경쓰지 않아도 잘 동작한다. -->
 ## Maemi's github<br/>
 <p align="right">
   <!-- <a href="https://github.com/DrMaemi"> -->
@@ -15,35 +9,39 @@ Junior developer
 ------------------------------------------
 
 ### 💼Career
-  - 2015.03 ~ - Bachelor of software engineering, Ajou University.
   - 2021.04 ~ - Software Maestro 12th
-
+  - 2015.03 ~ - Bachelor of software engineering, Ajou University.
+  
 
 ------------------------------------------
 
 ### ✨Tech stack
+<p>
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<!-- ?style=flat-squre, for-the-badge -->
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)&nbsp;
+<br>
+![](https://img.shields.io/badge/Flask-00000F?style=flat-square&logo=Flask&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Django-10620A?style=flat-square&logo=Django&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/TensorFlow-ED4C00?style=flat-square&logo=tensorflow&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/ScikitLearn-FFFFFF?style=flat-square&logo=scikit-learn&logoColor=FF5E00)&nbsp;
+<br>
+![](https://img.shields.io/badge/Spring-47C83E?style=flat-square&logo=spring&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Node.js-ABF200?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+<br>
+![](https://img.shields.io/badge/HTML5-FF7012?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+<br>
+![](https://img.shields.io/badge/MySQL-3162C7?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Firebase-FF7F00?style=flat-square&logo=firebase&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/MongoDB-476600?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+</p>
 
-![](https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=Flask&logoColor=white)
-![](https://img.shields.io/badge/Django-10620A?style=for-the-badge&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-ED4C00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=FF5E00)
 
-![](https://img.shields.io/badge/Spring-47C83E?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Node.js-ABF200?style=for-the-badge&logo=node.js&logoColor=white)
-
-![](https://img.shields.io/badge/HTML5-FF7012?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![](https://img.shields.io/badge/MySQL-3162C7?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FF7F00?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-476600?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!-- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
 ------------------------------------------
 
@@ -103,9 +101,15 @@ Junior developer
 **Don't hesitate to contact if you want.**
 
 ------------------------------------------
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrMaemi&theme=algolia" width="53%">&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMaemi&layout=compact" width="44%">
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DrMaemi&theme=dark&show_icons=true)
-[![DrMaemi @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=DrMaemi)](https://solved.ac/profile/DrMaemi)
+<p>
+
+[![DrMaemi @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=DrMaemi)](https://solved.ac/DrMaemi)
+</p>
 
 ------------------------------------------
 ### Links
