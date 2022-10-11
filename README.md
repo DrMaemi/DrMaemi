@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-  [![Blog OG Image](/resources/2022-10-11-devlog-icon-with-text.png)](https://drmaemi.github.io/blog/)<br>[Maemi's devlog - Github.io](https://drmaemi.github.io/blog/)
+  [![Blog OG Image](/resources/2022-10-11-devlog-icon-with-text-narrow.png)](https://drmaemi.github.io/blog/)<br>[Maemi's Devlog - Github.io](https://drmaemi.github.io/blog/)
 </div>
 
 ------------------------------------------
